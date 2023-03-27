@@ -1,0 +1,10 @@
+.content {
+  color: #33333333;
+  font-size: 24px;
+  user-select: none;
+}
+
+.text {
+  font-size: 14px;
+  color: #333;
+}
